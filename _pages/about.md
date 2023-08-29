@@ -23,6 +23,9 @@ Before going to ZJU, I obtained my B.E. degree in Cyber Science and Engineering 
 - 09/2017 - 06/2021, B.E., Southeast University
 
 ## Publication
+- **TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum**  
+  <u>Bowen He</u>, Yuan Chen, Zhuo Chen, Xiaohui Hu, Yufeng Hu, Lei Wu, Rui Chang, Haoyu Wang, Yajin Zhou. 
+  Proceedings of the ACM Conference on Computer and Communications Security (**CCS 2023**). (to appear)
 - **DxPU: Large Scale Disaggregated GPU Pools in the Datacenter**  
   <u>Bowen He</u>, Xiao Zheng, Yuan Chen, Weinan Li, Yajin Zhou, Xin Long, Pengcheng Zhang, Xiaowei Lu, Linquan Jiang, Qiang Liu, Dennis Cai, Xiantao Zhang.  
-  ACM Transactions on Architecture and Code Optimization (**TACO**), 2023 (to appear)
+  ACM Transactions on Architecture and Code Optimization (**TACO 2023**) (to appear)
