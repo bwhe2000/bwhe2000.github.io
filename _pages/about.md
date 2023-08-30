@@ -28,4 +28,4 @@ Before going to ZJU, I obtained my B.E. degree in Cyber Science and Engineering 
   Proceedings of the ACM Conference on Computer and Communications Security (**CCS 2023**). (to appear)
 - **DxPU: Large Scale Disaggregated GPU Pools in the Datacenter**  
   <u>Bowen He</u>, Xiao Zheng, Yuan Chen, Weinan Li, Yajin Zhou, Xin Long, Pengcheng Zhang, Xiaowei Lu, Linquan Jiang, Qiang Liu, Dennis Cai, Xiantao Zhang.  
-  ACM Transactions on Architecture and Code Optimization (**TACO 2023**) (to appear)
+  ACM Transactions on Architecture and Code Optimization (**TACO 2023**). (to appear)
